@@ -120,7 +120,6 @@ const EXPERIENCES = [
       'Managed fund operations, annual budgeting, and tax planning — establishing operational discipline now applied to crypto treasury management',
     ],
     accent: 'blue',
-    bridge: 'Multi-standard mastery (PRC GAAP / IFRS) mirrors the TradFi-to-DeFi accounting transition.',
   },
   {
     period: 'May 2010 – Dec 2011',
@@ -134,7 +133,6 @@ const EXPERIENCES = [
       'Built 3-year business planning models, developed peer benchmarking reports and strategic forecasts for senior leadership',
     ],
     accent: 'gold',
-    bridge: 'Cross-border financial operations experience translates directly to managing global Web3 treasury.',
   },
   {
     period: 'Aug 2006 – Apr 2010',
@@ -148,7 +146,6 @@ const EXPERIENCES = [
       'Ensured full enterprise income tax compliance while minimizing liability; established onshore/offshore tax optimization playbooks',
     ],
     accent: 'blue',
-    bridge: 'Listed-company compliance DNA (000151.SZ) is the credibility backbone that Web3 regulators trust.',
   },
 ]
 
